@@ -7,7 +7,7 @@ import (
 	"gioui.org/text"
 	"gioui.org/unit"
 
-	"github.com/gioapp/jorm/pkg/fonts"
+	"github.com/gioapp/fonts"
 )
 
 type DuoUItheme struct {

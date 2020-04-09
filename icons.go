@@ -6,7 +6,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/gioapp/jorm/pkg/gelook/ico"
+	"github.com/gioapp/gelook/ico"
 
 	"gioui.org/f32"
 	"gioui.org/layout"

@@ -4,7 +4,7 @@ import (
 	"gioui.org/io/pointer"
 	"gioui.org/layout"
 	"gioui.org/unit"
-	"github.com/gioapp/jorm/pkg/gel"
+	"github.com/gioapp/gel"
 	"image"
 )
 

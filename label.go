@@ -3,7 +3,7 @@
 package gelook
 
 import (
-	"github.com/gioapp/jorm/pkg/gel"
+	"github.com/gioapp/gel"
 
 	"gioui.org/layout"
 	"gioui.org/op/paint"

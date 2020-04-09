@@ -6,7 +6,7 @@ import (
 	"gioui.org/io/pointer"
 	"gioui.org/layout"
 	"gioui.org/op/paint"
-	"github.com/gioapp/jorm/pkg/gel"
+	"github.com/gioapp/gel"
 	"image"
 	"image/color"
 
